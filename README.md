@@ -18,7 +18,7 @@
 
 * **Gestión de Proyecto (Trello):** [Tablero TutorPal UDB](https://trello.com/invite/b/69b8dd2f26dcfd19b66de52c/ATTI6dc1c53a549e717d87b81b54f7139f8b83831802/tutorpal-udb-gestion-de-proyecto)
 * **Diseños y Mockups (Stitch):** [Prototipo de Interfaz](https://stitch.withgoogle.com/projects/9885823503763955056)
-* **Documentación:** [Descargar Perfil de Proyecto PDF](./Perfil-Proyeecto-Catedra%201(Editado)%20(1).pdf)
+* **Documentación:** [Descargar Perfil de Proyecto PDF](./Fase-1-Proyecto-Catedra.pdf)
 
 ---
 
