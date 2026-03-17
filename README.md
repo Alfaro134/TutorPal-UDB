@@ -24,7 +24,7 @@
 
 ##  Arquitectura del Sistema
 
-![Arquitectura de TutorPal](./arquitectura-tutorpal.png)
+![Arquitectura de TutorPal](./Arquitectura-TutorPal.jpeg)
 
 *El sistema utiliza una arquitectura moderna basada en:*
 * **Frontend:** React Native / Expo (Multiplataforma iOS/Android).
